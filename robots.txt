@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://eximerit.com/sitemap.xml
